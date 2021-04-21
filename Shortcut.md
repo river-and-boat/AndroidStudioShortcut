@@ -1,1 +1,6 @@
 # AndroidStudioShortcut
+## ctrl + F10: 运行程序
+## ctrl + E: 最近打开过的类
+## shift + shift: 搜索类/文件/...
+## shift + F7: 全局搜索类/文件/...
+## shift + F6: 重命名
